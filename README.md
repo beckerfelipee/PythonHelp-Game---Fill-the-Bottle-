@@ -1,12 +1,14 @@
-#  Game: Fill the Bottle! - Python Help Exercise
+#  Fill the Bottle! - Python Help Exercise
 
 Hello Python community!
 
-Recently, I had the pleasure of conducting Python Help classes, where two students collaborated on an exciting project for their college. I'd like to share with you the result of this collaborative effort: the "Fill the Bottle" game.
+Recently, I had the opportunity to lead Python Help classes, where two students worked together on a project for their college. I'd like to share with you the outcome of this collaborative effort: the 'Fill the Bottle' game.
 
 ## Project Description:
 
 Fill the Bottle is a simple Python game created to help the students solidify basic concepts of the programming language. In this interactive game, players compete to fill a virtual bottle without letting it overflow. If the bottle overflows, the player loses.
+
+![image](https://github.com/beckerfelipee/PythonHelp-Game---Fill-the-Bottle-/assets/94445094/1f2ccdc8-702e-49de-ba8b-deaa069f60e7)
 
 ## Covered Concepts:
 
@@ -21,22 +23,18 @@ Fill the Bottle is a simple Python game created to help the students solidify ba
 2. Follow the on-screen instructions to fill the bottle.
 3. Avoid letting the bottle overflow!
 
-## How to Contribute:
-
-Feel free to explore, make improvements, and contribute to this project. We are open to suggestions and collaborations. Together, we can make Fill the Bottle even more amazing!
+You can also test it online, [Click Here](https://replit.com/@FelipeHenrico/Fill-the-Bottle?v=1) to redirect.
 
 ## Usage Instructions:
 
 ```bash
-$ python fill_the_bottle.py
+$ python main.py
 ```
 
-## Acknowledgments:
+## Play and Explore:
 
-I want to express my gratitude to the students who participated in this project, making it a valuable learning experience for all of us.
+Feel free to explore and utilize this code to grasp fundamental concepts and inspire your own creations!
 
-Enjoy playing and coding!
+Happy coding!
 
-**[Your Name]**
-
-
+**Felipe Becker**
