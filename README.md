@@ -1,5 +1,5 @@
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
-  <img align="right" alt="Python-help" height="90" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
+  <img align="right" alt="Python-help" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 
 #  Fill the Bottle! - Python Exercise 
