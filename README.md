@@ -1,4 +1,4 @@
-<a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
+<a href="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png">
   <img align="right" alt="Python-help" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 
